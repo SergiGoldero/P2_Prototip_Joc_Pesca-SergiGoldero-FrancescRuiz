@@ -1,0 +1,2 @@
+En el vídeo que se manda, se dice que pulsando "1" se activan las barras. Al final, se hace todo (animaciones y barras) pulsando la
+tecla F. Disculpas por hacer esto ahora, pero no hemos tenido alternativa al haberla hecho solo 2 personas.
